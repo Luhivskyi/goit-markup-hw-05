@@ -396,10 +396,12 @@ body {
 
 .work-list img {
   display: block;
+  margin: 0;
 }
 
 .work-thumb {
   position: relative;
+  margin: 0;
 }
 .work-text {
   position: absolute;
@@ -422,6 +424,10 @@ body {
   color: var(--primary-white-color);
   background-color: rgba(47, 48, 58, 0.8);
   transform: translateY(-100%);
+}
+
+.work-picture {
+  margin: 0;
 }
 
 /* TEAM */
