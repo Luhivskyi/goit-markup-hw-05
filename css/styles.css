@@ -393,7 +393,7 @@ body {
   margin: 0;
 }
 
-.work-list :not(:last-child) {
+.work-item :not(:last-child) {
   margin-right: 30px;
 }
 
